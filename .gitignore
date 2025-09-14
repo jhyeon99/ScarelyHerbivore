@@ -15,6 +15,7 @@
 *.userprefs
 *.pidb
 *.booproj
+*.suo
 
 # Mac OS
 .DS_Store
