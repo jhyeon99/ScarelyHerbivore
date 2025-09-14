@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: ef4186133b7067542b6a79dcca370af1
+timeCreated: 1472113719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KakaoTalk_20160720_223156435_0
+    21300002: KakaoTalk_20160720_223156435_1
+    21300004: KakaoTalk_20160720_223156435_2
+    21300006: KakaoTalk_20160720_223156435_3
+    21300008: KakaoTalk_20160720_223156435_4
+    21300010: KakaoTalk_20160720_223156435_5
+    21300012: KakaoTalk_20160720_223156435_6
+    21300014: KakaoTalk_20160720_223156435_7
+    21300016: KakaoTalk_20160720_223156435_8
+    21300018: KakaoTalk_20160720_223156435_9
+    21300020: Enemy 1_0
+    21300022: Enemy 1_1
+    21300024: Enemy 1_2
+    21300026: Enemy 1_3
+    21300028: Enemy 1_4
+    21300030: Enemy 1_5
+    21300032: Enemy 1_6
+    21300034: Enemy 1_7
+    21300036: Enemy 1_8
+    21300038: Enemy 1_9
+    21300040: Herbivore 1_0
+    21300042: Herbivore 1_1
+    21300044: Herbivore 1_2
+    21300046: Herbivore 1_3
+    21300048: Herbivore 1_4
+    21300050: Herbivore 1_5
+    21300052: Herbivore 1_6
+    21300054: Herbivore 1_7
+    21300056: Herbivore 1_8
+    21300058: Herbivore 1_9
+    21300060: Unit Herbivore 1_0
+    21300062: Unit Herbivore 1_1
+    21300064: Unit Herbivore 1_2
+    21300066: Unit Herbivore 1_3
+    21300068: Unit Herbivore 1_4
+    21300070: Unit Herbivore 1_5
+    21300072: Unit Herbivore 1_6
+    21300074: Unit Herbivore 1_7
+    21300076: Unit Herbivore 1_8
+    21300078: Unit Herbivore 1_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unit Herbivore 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 84.30679}
+        - {x: -49, y: 84.30679}
+        - {x: -58, y: 81.30679}
+        - {x: -109, y: 41.306793}
+        - {x: -109, y: -140.6932}
+        - {x: -42, y: -140.6932}
+        - {x: -40, y: -135.6932}
+        - {x: -39, y: -126.69321}
+        - {x: -43, y: -124.69321}
+        - {x: -29, y: -131.6932}
+        - {x: -27, y: -138.6932}
+        - {x: 10, y: -139.6932}
+        - {x: 14, y: -128.6932}
+        - {x: 12, y: -106.69321}
+        - {x: 13, y: -113.69321}
+        - {x: 20, y: -132.6932}
+        - {x: 53, y: -142.6932}
+        - {x: 98, y: -142.6932}
+        - {x: 100, y: -138.6932}
+        - {x: 100, y: -93.69321}
+        - {x: 65, y: 14.306793}
+    - name: Unit Herbivore 1_1
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 439
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.899994, y: -116.69321}
+        - {x: -90.899994, y: -142.6932}
+        - {x: 19.100006, y: -142.6932}
+        - {x: 16.100006, y: -125.69321}
+        - {x: 11.100006, y: -88.69321}
+        - {x: 15.100006, y: -113.69321}
+        - {x: 33.100006, y: -130.6932}
+        - {x: 57.100006, y: -142.6932}
+        - {x: 100.100006, y: -142.6932}
+        - {x: 100.100006, y: -96.69321}
+        - {x: 46.100006, y: 84.30679}
+        - {x: -66.899994, y: 84.30679}
+        - {x: -108.899994, y: -13.693207}
+    - name: Unit Herbivore 1_2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 439
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.200012, y: 84.30679}
+        - {x: 45.200012, y: 89.30679}
+        - {x: -34.799988, y: 89.30679}
+        - {x: -32.799988, y: 66.30679}
+        - {x: -92.79999, y: 10.306793}
+        - {x: -102.79999, y: 0.3067932}
+        - {x: -102.79999, y: -78.69321}
+        - {x: -80.79999, y: -139.6932}
+        - {x: 90.20001, y: -139.6932}
+        - {x: 91.20001, y: -134.6932}
+        - {x: 91.20001, y: -96.69321}
+    - name: Unit Herbivore 1_3
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 439
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.30005, y: 84.30679}
+        - {x: -59.69995, y: 84.30679}
+        - {x: -107.69995, y: -5.693207}
+        - {x: -107.69995, y: -117.69321}
+        - {x: -79.69995, y: -142.6932}
+        - {x: -17.699951, y: -142.6932}
+        - {x: 10.300049, y: -137.6932}
+        - {x: 13.300049, y: -134.6932}
+        - {x: 15.300049, y: -128.6932}
+        - {x: 5.300049, y: -123.69321}
+        - {x: 11.300049, y: -105.69321}
+        - {x: 8.300049, y: -82.69321}
+        - {x: 14.300049, y: -114.69321}
+        - {x: 26.300049, y: -126.69321}
+        - {x: 67.30005, y: -142.6932}
+        - {x: 97.30005, y: -142.6932}
+        - {x: 100.30005, y: -135.6932}
+        - {x: 100.30005, y: -91.69321}
+        - {x: 51.30005, y: 72.30679}
+    - name: Unit Herbivore 1_4
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 439
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.400024, y: 89.30679}
+        - {x: -41.599976, y: 89.30679}
+        - {x: -98.599976, y: 17.306793}
+        - {x: -114.599976, y: -35.693207}
+        - {x: -114.599976, y: -89.69321}
+        - {x: -105.599976, y: -109.69321}
+        - {x: -54.599976, y: -137.6932}
+        - {x: 104.400024, y: -137.6932}
+        - {x: 104.400024, y: -93.69321}
+        - {x: 42.400024, y: 79.30679}
+    - name: Unit Herbivore 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 82}
+        - {x: -99, y: 3}
+        - {x: -99, y: -73}
+        - {x: -60, y: -133}
+        - {x: -57, y: -137}
+        - {x: 140, y: -137}
+        - {x: 140, y: -14}
+        - {x: 45, y: 82}
+    - name: Unit Herbivore 1_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131.1, y: -83}
+        - {x: 131.1, y: 68}
+        - {x: 127.100006, y: 74}
+        - {x: -57.899994, y: 133}
+        - {x: -64.899994, y: 133}
+        - {x: -69.899994, y: 131}
+        - {x: -120.899994, y: 114}
+        - {x: -120.899994, y: -88}
+        - {x: -101.899994, y: -139}
+        - {x: 48.100006, y: -139}
+        - {x: 48.100006, y: 10}
+        - {x: 99.100006, y: -96}
+        - {x: 114.100006, y: -126}
+    - name: Unit Herbivore 1_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.79999, y: 149}
+        - {x: -132.79999, y: 149}
+        - {x: -164.79999, y: 138}
+        - {x: -180.79999, y: 67}
+        - {x: -180.79999, y: -20}
+        - {x: -168.79999, y: -45}
+        - {x: -145.79999, y: -58}
+        - {x: -69.79999, y: -136}
+        - {x: -66.79999, y: -139}
+        - {x: -24.799988, y: -139}
+        - {x: 57.200012, y: -63}
+        - {x: 57.200012, y: -37}
+        - {x: 11.200012, y: 80}
+    - name: Unit Herbivore 1_8
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.30005, y: -29}
+        - {x: 103.30005, y: 63}
+        - {x: 81.30005, y: 80}
+        - {x: 72.30005, y: 76}
+        - {x: 69.30005, y: 66}
+        - {x: 58.30005, y: 77}
+        - {x: 44.30005, y: 88}
+        - {x: 41.30005, y: 89}
+        - {x: 33.30005, y: 79}
+        - {x: 34.30005, y: 65}
+        - {x: 39.30005, y: 57}
+        - {x: 46.30005, y: 50}
+        - {x: -4.699951, y: 93}
+        - {x: -86.69995, y: 93}
+        - {x: -114.69995, y: 80}
+        - {x: -114.69995, y: -11}
+        - {x: -80.69995, y: -89}
+        - {x: 36.30005, y: -146}
+        - {x: 176.30005, y: -146}
+        - {x: 195.30005, y: -133}
+        - {x: 195.30005, y: 17}
+        - {x: 172.30005, y: 19}
+    - name: Unit Herbivore 1_9
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 588
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 193.40002, y: -105}
+        - {x: 136.40002, y: -91}
+        - {x: 115.400024, y: 81}
+        - {x: 86.400024, y: 104}
+        - {x: -76.599976, y: 104}
+        - {x: -105.599976, y: 83}
+        - {x: -105.599976, y: 50}
+        - {x: -92.599976, y: 24}
+        - {x: -77.599976, y: -64}
+        - {x: 17.400024, y: -146}
+        - {x: 145.40002, y: -146}
+        - {x: 179.40002, y: -132}
+        - {x: 196.40002, y: -118}
+        - {x: 196.40002, y: -111}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

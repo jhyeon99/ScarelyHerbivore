@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 4a8cfeb00c000e94188b52c9e5b0de79
+timeCreated: 1473077346
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unit Carnivore 5_0
+    21300002: Unit Carnivore 5_1
+    21300004: Unit Carnivore 5_2
+    21300006: Unit Carnivore 5_3
+    21300008: Unit Carnivore 5_4
+    21300010: Unit Carnivore 5_5
+    21300012: Unit Carnivore 5_6
+    21300014: Unit Carnivore 5_7
+    21300016: Unit Carnivore 5_8
+    21300018: Unit Carnivore 5_9
+    21300020: Unit Carnivore 5_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unit Carnivore 5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.194016, y: -27.5}
+        - {x: -46.194016, y: -38.5}
+        - {x: -46.194016, y: -86.5}
+        - {x: -42.194016, y: -115.5}
+        - {x: -39.194016, y: -120.5}
+        - {x: 39.805984, y: -120.5}
+        - {x: 51.805984, y: -118.5}
+        - {x: 53.805984, y: -117.5}
+        - {x: 53.805984, y: -78.5}
+        - {x: 6.8059845, y: -27.5}
+    - name: Unit Carnivore 5_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 442
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.880676, y: -37.5}
+        - {x: -53.880676, y: -43.5}
+        - {x: -53.880676, y: -80.5}
+        - {x: -41.880676, y: -120.5}
+        - {x: 59.119324, y: -120.5}
+        - {x: 59.119324, y: -83.5}
+        - {x: -2.8806763, y: -37.5}
+    - name: Unit Carnivore 5_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 442
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.56732, y: -25.5}
+        - {x: -54.56732, y: -28.5}
+        - {x: -54.56732, y: -119.5}
+        - {x: -49.56732, y: -120.5}
+        - {x: 48.43268, y: -120.5}
+        - {x: 51.43268, y: -118.5}
+        - {x: 51.43268, y: -82.5}
+        - {x: 22.432678, y: -25.5}
+      - - {x: -233.56732, y: -105.5}
+        - {x: -230.56732, y: -104.5}
+        - {x: -230.56732, y: -100.5}
+        - {x: -232.56732, y: -98.5}
+        - {x: -233.56732, y: -98.5}
+    - name: Unit Carnivore 5_3
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 442
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.7539673, y: -25.5}
+        - {x: -41.753967, y: -25.5}
+        - {x: -55.753967, y: -51.5}
+        - {x: -55.753967, y: -120.5}
+        - {x: 51.246033, y: -120.5}
+        - {x: 51.246033, y: -91.5}
+        - {x: 10.246033, y: -34.5}
+    - name: Unit Carnivore 5_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.194016, y: -24}
+        - {x: -52.194016, y: -34}
+        - {x: -56.194016, y: -53}
+        - {x: -56.194016, y: -112}
+        - {x: -32.194016, y: -121}
+        - {x: 32.805984, y: -121}
+        - {x: 47.805984, y: -118}
+        - {x: 52.805984, y: -112}
+        - {x: 52.805984, y: -78}
+        - {x: 25.805984, y: -24}
+      - - {x: -29.194016, y: 121}
+        - {x: -28.194016, y: 118}
+        - {x: 18.805984, y: 118}
+        - {x: 20.805984, y: 120}
+        - {x: 20.805984, y: 121}
+    - name: Unit Carnivore 5_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.880676, y: 63}
+        - {x: -43.880676, y: -121}
+        - {x: 55.119324, y: -121}
+        - {x: 55.119324, y: 7}
+        - {x: 30.119324, y: 121}
+        - {x: -42.880676, y: 121}
+        - {x: -54.880676, y: 106}
+    - name: Unit Carnivore 5_6
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -157.56732, y: 45}
+        - {x: -178.56732, y: 25}
+        - {x: -187.56732, y: 12}
+        - {x: -210.56732, y: -10}
+        - {x: -135.56732, y: 87}
+        - {x: -154.56732, y: 87}
+        - {x: -207.56732, y: 59}
+        - {x: -232.56732, y: -5}
+        - {x: -232.56732, y: -63}
+        - {x: -219.56732, y: -79}
+        - {x: -47.56732, y: -121}
+        - {x: 45.43268, y: -121}
+        - {x: 55.43268, y: -107}
+        - {x: 55.43268, y: -93}
+        - {x: 5.432678, y: -58}
+      - - {x: -32.56732, y: 121}
+        - {x: -31.567322, y: 118}
+        - {x: 15.432678, y: 118}
+        - {x: 17.432678, y: 120}
+        - {x: 17.432678, y: 121}
+    - name: Unit Carnivore 5_7
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.75397, y: -20}
+        - {x: -232.75397, y: -20}
+        - {x: -233.75397, y: -22}
+        - {x: -233.75397, y: -81}
+        - {x: -54.753967, y: -121}
+        - {x: 51.246033, y: -121}
+        - {x: 56.246033, y: -115}
+        - {x: 56.246033, y: -89}
+        - {x: 44.246033, y: -69}
+      - - {x: -32.753967, y: 121}
+        - {x: -31.753967, y: 118}
+        - {x: 16.246033, y: 118}
+        - {x: 18.246033, y: 120}
+        - {x: 18.246033, y: 121}
+    - name: Unit Carnivore 5_8
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.94055, y: -53}
+        - {x: -122.94055, y: -53}
+        - {x: -126.94055, y: -56}
+        - {x: -126.94055, y: -121}
+        - {x: 56.05945, y: -121}
+        - {x: 56.05945, y: -92}
+        - {x: -2.9405518, y: -59}
+    - name: Unit Carnivore 5_9
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.62732, y: -35}
+        - {x: -49.62732, y: -44}
+        - {x: -61.62732, y: -55}
+        - {x: -44.62732, y: -39}
+        - {x: -40.62732, y: -37}
+        - {x: -41.62732, y: -31}
+        - {x: -54.62732, y: -31}
+        - {x: -82.62732, y: -52}
+        - {x: -86.62732, y: -71}
+        - {x: -86.62732, y: -90}
+        - {x: -65.62732, y: -116}
+        - {x: -42.62732, y: -121}
+        - {x: 44.37268, y: -121}
+        - {x: 56.37268, y: -109}
+        - {x: 56.37268, y: -98}
+        - {x: 43.37268, y: -73}
+    - name: Unit Carnivore 5_10
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.186157, y: -66}
+        - {x: -86.81384, y: -66}
+        - {x: -86.81384, y: -102}
+        - {x: -56.813843, y: -121}
+        - {x: 43.186157, y: -121}
+        - {x: 57.186157, y: -119}
+        - {x: 57.186157, y: -95}
+        - {x: 46.186157, y: -72}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

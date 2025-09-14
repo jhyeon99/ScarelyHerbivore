@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: b7bad91b7ef641042bb1a71a708d0fd2
+timeCreated: 1473319518
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unit Carnivore 5++_0
+    21300002: Unit Carnivore 5++_1
+    21300004: Unit Carnivore 5++_2
+    21300006: Unit Carnivore 5++_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unit Carnivore 5++_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.600006, y: -50.5}
+        - {x: -78.600006, y: -53.5}
+        - {x: -78.600006, y: -208.5}
+        - {x: -68.600006, y: -211.5}
+        - {x: 73.399994, y: -211.5}
+        - {x: 93.399994, y: -184.5}
+        - {x: 93.399994, y: -161.5}
+        - {x: -5.600006, y: -50.5}
+    - name: Unit Carnivore 5++_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.400024, y: -153.5}
+        - {x: -14.599976, y: -50.5}
+        - {x: -58.599976, y: -50.5}
+        - {x: -66.599976, y: -60.5}
+        - {x: -73.599976, y: -132.5}
+        - {x: -73.599976, y: -194.5}
+        - {x: -57.599976, y: -211.5}
+        - {x: 45.400024, y: -211.5}
+        - {x: 87.400024, y: -192.5}
+        - {x: 93.400024, y: -180.5}
+        - {x: 93.400024, y: -170.5}
+    - name: Unit Carnivore 5++_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.400024, y: -49.5}
+        - {x: -62.599976, y: -49.5}
+        - {x: -73.599976, y: -91.5}
+        - {x: -73.599976, y: -206.5}
+        - {x: -60.599976, y: -211.5}
+        - {x: 45.400024, y: -211.5}
+        - {x: 87.400024, y: -192.5}
+        - {x: 93.400024, y: -185.5}
+        - {x: 93.400024, y: -157.5}
+    - name: Unit Carnivore 5++_3
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 535
+        height: 442
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.400024, y: -153.5}
+        - {x: -3.5999756, y: -67.5}
+        - {x: -23.599976, y: -50.5}
+        - {x: -65.599976, y: -50.5}
+        - {x: -73.599976, y: -92.5}
+        - {x: -73.599976, y: -203.5}
+        - {x: -59.599976, y: -211.5}
+        - {x: 45.400024, y: -211.5}
+        - {x: 87.400024, y: -192.5}
+        - {x: 93.400024, y: -180.5}
+        - {x: 93.400024, y: -170.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

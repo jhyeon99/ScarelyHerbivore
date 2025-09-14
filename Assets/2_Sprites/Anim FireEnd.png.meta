@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 79d9a78c8b9e78740a7c3a51eb39e469
+timeCreated: 1472113481
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fireend_0
+    21300002: fireend_1
+    21300004: fireend_2
+    21300006: fireend_3
+    21300008: fireend_4
+    21300010: fireend_5
+    21300012: Anim FireEnd_0
+    21300014: Anim FireEnd_1
+    21300016: Anim FireEnd_2
+    21300018: Anim FireEnd_3
+    21300020: Anim FireEnd_4
+    21300022: Anim FireEnd_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Anim FireEnd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 54.5}
+        - {x: 43, y: 114.5}
+        - {x: 13, y: 144.5}
+        - {x: -18, y: 144.5}
+        - {x: -71, y: 79.5}
+        - {x: -75, y: 54.5}
+        - {x: -75, y: -87.5}
+        - {x: -55, y: -147.5}
+        - {x: -29, y: -156.5}
+        - {x: 35, y: -156.5}
+        - {x: 46, y: -152.5}
+        - {x: 58, y: -133.5}
+        - {x: 68, y: -114.5}
+        - {x: 68, y: 23.5}
+    - name: Anim FireEnd_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 107.5}
+        - {x: 37, y: 131.5}
+        - {x: 10, y: 152.5}
+        - {x: -16, y: 152.5}
+        - {x: -66, y: 98.5}
+        - {x: -78, y: 63.5}
+        - {x: -78, y: -90.5}
+        - {x: -54, y: -141.5}
+        - {x: -23, y: -156.5}
+        - {x: 32, y: -156.5}
+        - {x: 54, y: -147.5}
+        - {x: 74, y: -112.5}
+        - {x: 74, y: 37.5}
+    - name: Anim FireEnd_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 156
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 153.5}
+        - {x: -15, y: 153.5}
+        - {x: -22, y: 146.5}
+        - {x: -78, y: 81.5}
+        - {x: -78, y: 64.5}
+        - {x: -77, y: 55.5}
+        - {x: -74, y: 54.5}
+        - {x: -71, y: 55.5}
+        - {x: -78, y: -7.5}
+        - {x: -78, y: -37.5}
+        - {x: -76, y: -40.5}
+        - {x: -73, y: -37.5}
+        - {x: -28, y: -143.5}
+        - {x: -12, y: -149.5}
+        - {x: 12, y: -149.5}
+        - {x: 20, y: -145.5}
+        - {x: 78, y: -113.5}
+        - {x: 78, y: 72.5}
+      - - {x: 59, y: -106.5}
+        - {x: 62, y: -126.5}
+        - {x: 66, y: -126.5}
+        - {x: 77, y: -116.5}
+        - {x: 77, y: -86.5}
+        - {x: 76, y: -81.5}
+        - {x: 59, y: -81.5}
+    - name: Anim FireEnd_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 156
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 135.5}
+        - {x: 45, y: 156.5}
+        - {x: -73, y: 156.5}
+        - {x: -76, y: 144.5}
+        - {x: -76, y: 55.5}
+        - {x: -75, y: 55.5}
+        - {x: -69, y: 61.5}
+        - {x: -71, y: 43.5}
+        - {x: -63, y: 41.5}
+        - {x: -12, y: -149.5}
+        - {x: -11, y: -150.5}
+        - {x: 13, y: -150.5}
+        - {x: 36, y: -135.5}
+        - {x: 30, y: -123.5}
+        - {x: 63, y: -7.5}
+      - - {x: 66, y: -81.5}
+        - {x: 64, y: -83.5}
+        - {x: 69, y: -115.5}
+        - {x: 72, y: -116.5}
+        - {x: 77, y: -116.5}
+        - {x: 78, y: -110.5}
+        - {x: 78, y: -84.5}
+        - {x: 74, y: -81.5}
+      - - {x: 72, y: -57.5}
+        - {x: 71, y: -62.5}
+        - {x: 71, y: -70.5}
+        - {x: 73, y: -72.5}
+        - {x: 76, y: -71.5}
+        - {x: 77, y: -62.5}
+        - {x: 77, y: -57.5}
+        - {x: 75, y: -56.5}
+      - - {x: 9, y: 51.5}
+        - {x: 11, y: 49.5}
+        - {x: 14, y: 50.5}
+        - {x: 73, y: -39.5}
+        - {x: 78, y: -39.5}
+        - {x: 78, y: 32.5}
+        - {x: 72, y: 75.5}
+        - {x: 35, y: 75.5}
+        - {x: 9, y: 57.5}
+    - name: Anim FireEnd_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 156
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -101.5}
+        - {x: 4, y: -102.5}
+        - {x: 4, y: -118.5}
+        - {x: 5, y: -142.5}
+        - {x: 11, y: -146.5}
+        - {x: 18, y: -146.5}
+        - {x: 25, y: -141.5}
+        - {x: 25, y: -134.5}
+        - {x: 12, y: -105.5}
+      - - {x: -3, y: -61.5}
+        - {x: 0, y: -62.5}
+        - {x: 3, y: -61.5}
+        - {x: 3, y: -45.5}
+        - {x: 0, y: -44.5}
+        - {x: -3, y: -45.5}
+      - - {x: -56, y: 88.5}
+        - {x: -66, y: 85.5}
+        - {x: -67, y: 70.5}
+        - {x: -67, y: 43.5}
+        - {x: -63, y: 39.5}
+        - {x: -6, y: -9.5}
+        - {x: 20, y: -9.5}
+        - {x: 58, y: 2.5}
+        - {x: 58, y: 27.5}
+        - {x: 2, y: 88.5}
+      - - {x: 43, y: 75.5}
+        - {x: 23, y: 66.5}
+        - {x: 23, y: 60.5}
+        - {x: 35, y: 51.5}
+        - {x: 61, y: 45.5}
+        - {x: 64, y: 45.5}
+        - {x: 64, y: 62.5}
+        - {x: 60, y: 68.5}
+        - {x: 55, y: 75.5}
+      - - {x: 10, y: 102.5}
+        - {x: 17, y: 102.5}
+        - {x: 43, y: 110.5}
+        - {x: 43, y: 119.5}
+        - {x: 40, y: 124.5}
+        - {x: 36, y: 129.5}
+        - {x: 24, y: 129.5}
+        - {x: 10, y: 124.5}
+      - - {x: -22, y: 156.5}
+        - {x: -37, y: 125.5}
+        - {x: -37, y: 104.5}
+        - {x: -25, y: 104.5}
+        - {x: 8, y: 142.5}
+        - {x: 8, y: 155.5}
+        - {x: 6, y: 156.5}
+    - name: Anim FireEnd_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 156
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 33.5}
+        - {x: 8, y: 32.5}
+        - {x: 4, y: 25.5}
+        - {x: 4, y: 15.5}
+        - {x: 22, y: 15.5}
+        - {x: 42, y: 17.5}
+        - {x: 42, y: 30.5}
+        - {x: 34, y: 33.5}
+      - - {x: 44, y: 25.5}
+        - {x: 43, y: 23.5}
+        - {x: 44, y: 20.5}
+        - {x: 51, y: 15.5}
+        - {x: 54, y: 16.5}
+        - {x: 54, y: 20.5}
+        - {x: 47, y: 25.5}
+      - - {x: 22, y: 129.5}
+        - {x: 10, y: 123.5}
+        - {x: 10, y: 114.5}
+        - {x: 12, y: 109.5}
+        - {x: 19, y: 109.5}
+        - {x: 35, y: 120.5}
+        - {x: 35, y: 128.5}
+        - {x: 32, y: 129.5}
+      - - {x: -15, y: 156.5}
+        - {x: -17, y: 152.5}
+        - {x: -17, y: 148.5}
+        - {x: -15, y: 148.5}
+        - {x: -5, y: 147.5}
+        - {x: 4, y: 147.5}
+        - {x: 4, y: 151.5}
+        - {x: -2, y: 156.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

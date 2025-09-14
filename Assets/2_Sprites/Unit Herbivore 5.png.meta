@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: a1c1b4b1e8306ef43ac318b896276515
+timeCreated: 1473252073
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unit Herbivore 5_0
+    21300002: Unit Herbivore 5_1
+    21300004: Unit Herbivore 5_2
+    21300006: Unit Herbivore 5_3
+    21300008: Unit Herbivore 5_4
+    21300010: Unit Herbivore 5_5
+    21300012: Unit Herbivore 5_6
+    21300014: Unit Herbivore 5_7
+    21300016: Unit Herbivore 5_8
+    21300018: Unit Herbivore 5_9
+    21300020: Unit Herbivore 5_10
+    21300022: Unit Herbivore 5_11
+    21300024: Unit Herbivore 5_12
+    21300026: Unit Herbivore 5_13
+    21300028: Unit Herbivore 5_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unit Herbivore 5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.213043, y: 29.5}
+        - {x: -30.213043, y: 18.5}
+        - {x: -30.213043, y: -14.5}
+        - {x: 7.786957, y: -43.5}
+        - {x: 51.786957, y: -43.5}
+        - {x: 51.786957, y: 9.5}
+        - {x: 44.786957, y: 29.5}
+    - name: Unit Herbivore 5_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 207
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.756561, y: 29.5}
+        - {x: -30.756561, y: 14.5}
+        - {x: -30.756561, y: -10.5}
+        - {x: -17.756561, y: -25.5}
+        - {x: 7.2434387, y: -43.5}
+        - {x: 53.24344, y: -43.5}
+        - {x: 53.24344, y: 9.5}
+        - {x: 45.24344, y: 29.5}
+    - name: Unit Herbivore 5_2
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 207
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.799988, y: 29.5}
+        - {x: -28.799988, y: -35.5}
+        - {x: -2.7999878, y: -43.5}
+        - {x: 54.200012, y: -43.5}
+        - {x: 54.200012, y: 24.5}
+        - {x: 43.200012, y: 29.5}
+    - name: Unit Herbivore 5_3
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 207
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.843445, y: 29.5}
+        - {x: -30.843445, y: 14.5}
+        - {x: -30.843445, y: -17.5}
+        - {x: 5.156555, y: -43.5}
+        - {x: 53.156555, y: -43.5}
+        - {x: 53.156555, y: 17.5}
+        - {x: 46.156555, y: 29.5}
+    - name: Unit Herbivore 5_4
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 207
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.886963, y: 29.5}
+        - {x: -28.886963, y: 24.5}
+        - {x: -28.886963, y: -16.5}
+        - {x: 11.113037, y: -43.5}
+        - {x: 54.113037, y: -43.5}
+        - {x: 54.113037, y: 7.5}
+        - {x: 46.113037, y: 29.5}
+    - name: Unit Herbivore 5_5
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 207
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.93042, y: 33.5}
+        - {x: -24.93042, y: -25.5}
+        - {x: -23.93042, y: -28.5}
+        - {x: -0.9304199, y: -43.5}
+        - {x: 61.06958, y: -43.5}
+        - {x: 71.06958, y: -40.5}
+        - {x: 71.06958, y: 10.5}
+        - {x: 70.06958, y: 20.5}
+        - {x: 31.06958, y: 33.5}
+    - name: Unit Herbivore 5_6
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 207
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.026123, y: 21.5}
+        - {x: 30.026123, y: 15.5}
+        - {x: 31.026123, y: 15.5}
+        - {x: 27.026123, y: 22.5}
+        - {x: 23.026123, y: 34.5}
+        - {x: -13.973877, y: 34.5}
+        - {x: -22.973877, y: 16.5}
+        - {x: -22.973877, y: -5.5}
+        - {x: 5.026123, y: -43.5}
+        - {x: 49.026123, y: -43.5}
+        - {x: 69.02612, y: -32.5}
+        - {x: 69.02612, y: 10.5}
+        - {x: 38.026123, y: 21.5}
+      - - {x: 68.02612, y: -21.5}
+        - {x: 66.02612, y: -23.5}
+        - {x: 66.02612, y: -26.5}
+        - {x: 68.02612, y: -28.5}
+        - {x: 71.02612, y: -28.5}
+        - {x: 73.02612, y: -26.5}
+        - {x: 73.02612, y: -23.5}
+        - {x: 71.02612, y: -21.5}
+    - name: Unit Herbivore 5_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.786957, y: 38.5}
+        - {x: -17.213043, y: 38.5}
+        - {x: -36.213043, y: 27.5}
+        - {x: -36.213043, y: -8.5}
+        - {x: -34.213043, y: -12.5}
+        - {x: -25.213043, y: -22.5}
+        - {x: 5.786957, y: -43.5}
+        - {x: 38.786957, y: -43.5}
+        - {x: 60.786957, y: -40.5}
+        - {x: 60.786957, y: -10.5}
+        - {x: 40.786957, y: 30.5}
+    - name: Unit Herbivore 5_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.756561, y: 28.5}
+        - {x: -32.75656, y: 12.5}
+        - {x: -32.75656, y: -13.5}
+        - {x: -31.756561, y: -18.5}
+        - {x: 9.243439, y: -43.5}
+        - {x: 55.24344, y: -43.5}
+        - {x: 61.24344, y: -30.5}
+        - {x: 61.24344, y: 17.5}
+        - {x: 56.24344, y: 28.5}
+    - name: Unit Herbivore 5_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.200012, y: 35.5}
+        - {x: -19.799988, y: 35.5}
+        - {x: -32.799988, y: 21.5}
+        - {x: -32.799988, y: -16.5}
+        - {x: 6.200012, y: -41.5}
+        - {x: 48.200012, y: -41.5}
+        - {x: 50.200012, y: -40.5}
+        - {x: 53.200012, y: -26.5}
+        - {x: 53.200012, y: 31.5}
+    - name: Unit Herbivore 5_10
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.156555, y: 35.5}
+        - {x: 12.156555, y: 34.5}
+        - {x: 4.156555, y: 20.5}
+        - {x: 8.156555, y: 3.5}
+        - {x: 1.1565552, y: 27.5}
+        - {x: -11.843445, y: 35.5}
+        - {x: -44.843445, y: 35.5}
+        - {x: -50.843445, y: 23.5}
+        - {x: -50.843445, y: -22.5}
+        - {x: -33.843445, y: -37.5}
+        - {x: 59.156555, y: -37.5}
+        - {x: 92.156555, y: -29.5}
+        - {x: 92.156555, y: 13.5}
+        - {x: 74.156555, y: 35.5}
+      - - {x: 92.156555, y: -10.5}
+        - {x: 102.156555, y: -13.5}
+        - {x: 206.15656, y: -13.5}
+        - {x: 206.15656, y: 15.5}
+        - {x: 117.156555, y: 15.5}
+        - {x: 92.156555, y: 12.5}
+    - name: Unit Herbivore 5_11
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.113037, y: 35.5}
+        - {x: 4.113037, y: 20.5}
+        - {x: 8.113037, y: 3.5}
+        - {x: 1.1130371, y: 27.5}
+        - {x: -11.886963, y: 35.5}
+        - {x: -45.886963, y: 35.5}
+        - {x: -50.886963, y: 27.5}
+        - {x: -50.886963, y: -20.5}
+        - {x: -18.886963, y: -37.5}
+        - {x: 50.113037, y: -37.5}
+        - {x: 79.11304, y: -8.5}
+        - {x: 79.11304, y: 35.5}
+      - - {x: 174.11304, y: 15.5}
+        - {x: 145.11304, y: 5.5}
+        - {x: 145.11304, y: -2.5}
+        - {x: 162.11304, y: -15.5}
+        - {x: 206.11304, y: -15.5}
+        - {x: 206.11304, y: 14.5}
+        - {x: 202.11304, y: 15.5}
+    - name: Unit Herbivore 5_12
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.93042, y: -33.5}
+        - {x: -39.93042, y: -43.5}
+        - {x: 51.06958, y: -43.5}
+        - {x: 51.06958, y: 15.5}
+        - {x: 50.06958, y: 30.5}
+        - {x: 2.06958, y: 30.5}
+        - {x: -41.93042, y: 17.5}
+      - - {x: -50.93042, y: -11.5}
+        - {x: -47.93042, y: -10.5}
+        - {x: -47.93042, y: 0.5}
+        - {x: -49.93042, y: 2.5}
+        - {x: -50.93042, y: 2.5}
+    - name: Unit Herbivore 5_13
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.02612, y: 39.5}
+        - {x: 55.026123, y: 43.5}
+        - {x: 36.026123, y: 43.5}
+        - {x: 37.026123, y: 41.5}
+        - {x: 40.026123, y: 38.5}
+        - {x: 32.026123, y: 13.5}
+        - {x: 33.026123, y: 3.5}
+        - {x: 29.026123, y: 20.5}
+        - {x: 26.026123, y: 29.5}
+        - {x: -7.973877, y: 40.5}
+        - {x: -19.973877, y: 18.5}
+        - {x: -19.973877, y: -25.5}
+        - {x: 11.026123, y: -43.5}
+        - {x: 81.02612, y: -43.5}
+        - {x: 93.02612, y: -33.5}
+        - {x: 93.02612, y: 1.5}
+        - {x: 87.02612, y: 24.5}
+    - name: Unit Herbivore 5_14
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 0
+        width: 609
+        height: 207
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.982544, y: 15.5}
+        - {x: 31.982544, y: 2.5}
+        - {x: 31.982544, y: 11.5}
+        - {x: 29.982544, y: 18.5}
+        - {x: 22.982544, y: 29.5}
+        - {x: 20.982544, y: 30.5}
+        - {x: -7.017456, y: 30.5}
+        - {x: -18.017456, y: 22.5}
+        - {x: -18.017456, y: -22.5}
+        - {x: -10.017456, y: -43.5}
+        - {x: 92.982544, y: -43.5}
+        - {x: 92.982544, y: -9.5}
+        - {x: 68.982544, y: 15.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

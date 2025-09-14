@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 103e33de017fe6141affc41124989e81
+timeCreated: 1472114043
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Carnivore 7_0
+    21300002: Carnivore 7_1
+    21300004: Carnivore 7_2
+    21300006: Carnivore 7_3
+    21300008: Carnivore 7_4
+    21300010: Carnivore 7_5
+    21300012: Carnivore 7_6
+    21300014: Carnivore 7_7
+    21300016: Carnivore 7_8
+    21300018: Carnivore 7_9
+    21300020: Carnivore 7_10
+    21300022: Unit Carnivore 7_0
+    21300024: Unit Carnivore 7_1
+    21300026: Unit Carnivore 7_2
+    21300028: Unit Carnivore 7_3
+    21300030: Unit Carnivore 7_4
+    21300032: Unit Carnivore 7_5
+    21300034: Unit Carnivore 7_6
+    21300036: Unit Carnivore 7_7
+    21300038: Unit Carnivore 7_8
+    21300040: Unit Carnivore 7_9
+    21300042: Unit Carnivore 7_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unit Carnivore 7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 90.5}
+        - {x: -39.5, y: 81.5}
+        - {x: -47.5, y: 50.5}
+        - {x: -47.5, y: -91.5}
+        - {x: 62.5, y: -91.5}
+        - {x: 87.5, y: -73.5}
+        - {x: 87.5, y: 90.5}
+    - name: Unit Carnivore 7_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 183
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: -61.5}
+        - {x: -56.5, y: -71.5}
+        - {x: -31.5, y: -91.5}
+        - {x: 51.5, y: -91.5}
+        - {x: 87.5, y: -56.5}
+        - {x: 87.5, y: 74.5}
+        - {x: 83.5, y: 91.5}
+        - {x: -6.5, y: 91.5}
+        - {x: -41.5, y: 86.5}
+        - {x: -67.5, y: 6.5}
+    - name: Unit Carnivore 7_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 183
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 91.5}
+        - {x: -69.5, y: 45.5}
+        - {x: -69.5, y: -86.5}
+        - {x: 41.5, y: -86.5}
+        - {x: 88.5, y: -53.5}
+        - {x: 88.5, y: 67.5}
+        - {x: 68.5, y: 91.5}
+    - name: Unit Carnivore 7_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 183
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 90.5}
+        - {x: -39.5, y: 81.5}
+        - {x: -47.5, y: 50.5}
+        - {x: -47.5, y: -91.5}
+        - {x: 62.5, y: -91.5}
+        - {x: 87.5, y: -73.5}
+        - {x: 87.5, y: 90.5}
+    - name: Unit Carnivore 7_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 183
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 91.5}
+        - {x: -46.5, y: 90.5}
+        - {x: -47.5, y: 82.5}
+        - {x: -47.5, y: -12.5}
+        - {x: -12.5, y: -85.5}
+        - {x: 69.5, y: -85.5}
+        - {x: 87.5, y: -63.5}
+        - {x: 87.5, y: 66.5}
+        - {x: 84.5, y: 91.5}
+    - name: Unit Carnivore 7_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 183
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: 1.5}
+        - {x: 87.5, y: 39.5}
+        - {x: 68.5, y: 90.5}
+        - {x: 62.5, y: 91.5}
+        - {x: -3.5, y: 91.5}
+        - {x: -41.5, y: 85.5}
+        - {x: -47.5, y: 61.5}
+        - {x: -47.5, y: -22.5}
+        - {x: -10.5, y: -83.5}
+        - {x: 70.5, y: -83.5}
+        - {x: 87.5, y: -74.5}
+        - {x: 87.5, y: -46.5}
+        - {x: 73.5, y: -35.5}
+    - name: Unit Carnivore 7_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 183
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: 88.5}
+        - {x: 58.5, y: 90.5}
+        - {x: 1.5, y: 90.5}
+        - {x: -41.5, y: 83.5}
+        - {x: -47.5, y: 33.5}
+        - {x: -47.5, y: -91.5}
+        - {x: 59.5, y: -91.5}
+        - {x: 68.5, y: -63.5}
+        - {x: 87.5, y: 7.5}
+        - {x: 87.5, y: 28.5}
+    - name: Unit Carnivore 7_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 90.5}
+        - {x: -55.5, y: 85.5}
+        - {x: -60.5, y: 53.5}
+        - {x: -60.5, y: -31.5}
+        - {x: -17.5, y: -91.5}
+        - {x: 72.5, y: -91.5}
+        - {x: 77.5, y: -78.5}
+        - {x: 77.5, y: 65.5}
+        - {x: 54.5, y: 90.5}
+      - - {x: -73.5, y: 6.5}
+        - {x: -78.5, y: 6.5}
+        - {x: -82.5, y: -4.5}
+        - {x: -82.5, y: -34.5}
+        - {x: -68.5, y: -52.5}
+        - {x: -51.5, y: -52.5}
+        - {x: -41.5, y: -45.5}
+        - {x: -41.5, y: -33.5}
+        - {x: -71.5, y: 4.5}
+      - - {x: -69.5, y: 1.5}
+        - {x: -71.5, y: -0.5}
+        - {x: -71.5, y: -2.5}
+        - {x: -69.5, y: -4.5}
+        - {x: -67.5, y: -4.5}
+        - {x: -65.5, y: -3.5}
+        - {x: -65.5, y: -0.5}
+        - {x: -66.5, y: 1.5}
+    - name: Unit Carnivore 7_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 90.5}
+        - {x: -76.5, y: 47.5}
+        - {x: -76.5, y: 8.5}
+        - {x: -64.5, y: -22.5}
+        - {x: -22.5, y: -91.5}
+        - {x: 74.5, y: -91.5}
+        - {x: 74.5, y: 61.5}
+        - {x: 48.5, y: 90.5}
+    - name: Unit Carnivore 7_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 90.5}
+        - {x: -66.5, y: 90.5}
+        - {x: -82.5, y: 17.5}
+        - {x: -82.5, y: -91.5}
+        - {x: 74.5, y: -91.5}
+        - {x: 74.5, y: 54.5}
+        - {x: 52.5, y: 78.5}
+    - name: Unit Carnivore 7_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 90.5}
+        - {x: 26.5, y: 90.5}
+        - {x: 24.5, y: 87.5}
+        - {x: -7.5, y: 85.5}
+        - {x: -39.5, y: 86.5}
+        - {x: -52.5, y: 81.5}
+        - {x: -79.5, y: -44.5}
+        - {x: -79.5, y: -73.5}
+        - {x: -40.5, y: -91.5}
+        - {x: 74.5, y: -91.5}
+        - {x: 74.5, y: 54.5}
+        - {x: 52.5, y: 78.5}
+      - - {x: -81.5, y: -41.5}
+        - {x: -78.5, y: -41.5}
+        - {x: -76.5, y: -40.5}
+        - {x: -76.5, y: -35.5}
+        - {x: -81.5, y: -35.5}
+        - {x: -82.5, y: -36.5}
+        - {x: -82.5, y: -39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

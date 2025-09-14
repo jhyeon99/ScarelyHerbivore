@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: e6509a2c375e0994c9bd3718c78c79fd
+timeCreated: 1472113488
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firestart_0
+    21300002: firestart_1
+    21300004: firestart_2
+    21300006: firestart_3
+    21300008: Anim FireStart_0
+    21300010: Anim FireStart_1
+    21300012: Anim FireStart_2
+    21300014: Anim FireStart_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Anim FireStart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 313
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154.5, y: -71.5}
+        - {x: -104.5, y: -127.5}
+        - {x: -66.5, y: -149.5}
+        - {x: -3.5, y: -149.5}
+        - {x: -3.5, y: -133.5}
+        - {x: -15.5, y: -103.5}
+        - {x: -128.5, y: -67.5}
+        - {x: -152.5, y: -67.5}
+        - {x: -154.5, y: -69.5}
+      - - {x: 101.5, y: -77.5}
+        - {x: 114.5, y: -22.5}
+        - {x: 114.5, y: 40.5}
+        - {x: 111.5, y: 45.5}
+        - {x: -88.5, y: 45.5}
+        - {x: -95.5, y: 40.5}
+        - {x: -100.5, y: 22.5}
+        - {x: -100.5, y: -52.5}
+        - {x: -40.5, y: -149.5}
+        - {x: 114.5, y: -149.5}
+        - {x: 114.5, y: -123.5}
+        - {x: 65.5, y: -94.5}
+      - - {x: 141.5, y: -88.5}
+        - {x: 116.5, y: -122.5}
+        - {x: 116.5, y: -127.5}
+        - {x: 121.5, y: -127.5}
+        - {x: 153.5, y: -97.5}
+        - {x: 153.5, y: -91.5}
+        - {x: 152.5, y: -88.5}
+    - name: Anim FireStart_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 313
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -94.5}
+        - {x: -3.5, y: -94.5}
+        - {x: -3.5, y: -143.5}
+        - {x: 6.5, y: -149.5}
+        - {x: 98.5, y: -149.5}
+        - {x: 109.5, y: -148.5}
+        - {x: 120.5, y: -128.5}
+        - {x: 120.5, y: -123.5}
+      - - {x: -103.5, y: -103.5}
+        - {x: -103.5, y: -121.5}
+        - {x: -85.5, y: -138.5}
+        - {x: -70.5, y: -137.5}
+        - {x: -22.5, y: -148.5}
+        - {x: -5.5, y: -148.5}
+        - {x: -5.5, y: -110.5}
+        - {x: -16.5, y: -103.5}
+      - - {x: 150.5, y: -81.5}
+        - {x: 144.5, y: -83.5}
+        - {x: 141.5, y: -97.5}
+        - {x: 141.5, y: -100.5}
+        - {x: 142.5, y: -101.5}
+        - {x: 145.5, y: -101.5}
+        - {x: 156.5, y: -94.5}
+        - {x: 156.5, y: -83.5}
+        - {x: 155.5, y: -81.5}
+      - - {x: -109.5, y: 43.5}
+        - {x: -106.5, y: 42.5}
+        - {x: -103.5, y: 44.5}
+        - {x: 112.5, y: 5.5}
+        - {x: 124.5, y: 5.5}
+        - {x: 124.5, y: 39.5}
+        - {x: 115.5, y: 87.5}
+        - {x: 75.5, y: 148.5}
+        - {x: -61.5, y: 148.5}
+        - {x: -109.5, y: 109.5}
+    - name: Anim FireStart_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 313
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: -149.5}
+        - {x: 75.5, y: -149.5}
+        - {x: 88.5, y: -147.5}
+        - {x: 111.5, y: -137.5}
+        - {x: 111.5, y: -126.5}
+        - {x: 91.5, y: -126.5}
+        - {x: 58.5, y: -135.5}
+      - - {x: 8.5, y: -108.5}
+        - {x: 6.5, y: -109.5}
+        - {x: 4.5, y: -120.5}
+        - {x: 4.5, y: -132.5}
+        - {x: 27.5, y: -141.5}
+        - {x: 44.5, y: -141.5}
+        - {x: 44.5, y: -125.5}
+        - {x: 12.5, y: -108.5}
+      - - {x: -88.5, y: -114.5}
+        - {x: -88.5, y: -118.5}
+        - {x: -78.5, y: -134.5}
+        - {x: -14.5, y: -134.5}
+        - {x: -14.5, y: -126.5}
+        - {x: -20.5, y: -114.5}
+      - - {x: -57.5, y: 149.5}
+        - {x: -102.5, y: 77.5}
+        - {x: -102.5, y: 59.5}
+        - {x: -35.5, y: 59.5}
+        - {x: 108.5, y: 71.5}
+        - {x: 108.5, y: 109.5}
+        - {x: 64.5, y: 149.5}
+    - name: Anim FireStart_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 313
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 149.5}
+        - {x: -79.5, y: 115.5}
+        - {x: -79.5, y: 102.5}
+        - {x: -59.5, y: 102.5}
+        - {x: 71.5, y: 117.5}
+        - {x: 72.5, y: 117.5}
+        - {x: 72.5, y: 129.5}
+        - {x: 41.5, y: 149.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

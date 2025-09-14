@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: ded38cd60d0070240b2569f64c25eb2a
+timeCreated: 1472113660
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Carnivore 3_0
+    21300002: Carnivore 3_1
+    21300004: Carnivore 3_2
+    21300006: Carnivore 3_3
+    21300008: Carnivore 3_4
+    21300010: Carnivore 3_5
+    21300012: Carnivore 3_6
+    21300014: Carnivore 3_7
+    21300016: Carnivore 3_8
+    21300018: Unit Carnivore 3_0
+    21300020: Unit Carnivore 3_1
+    21300022: Unit Carnivore 3_2
+    21300024: Unit Carnivore 3_3
+    21300026: Unit Carnivore 3_4
+    21300028: Unit Carnivore 3_5
+    21300030: Unit Carnivore 3_6
+    21300032: Unit Carnivore 3_7
+    21300034: Unit Carnivore 3_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unit Carnivore 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 81}
+        - {x: -85, y: -43}
+        - {x: -37, y: -119}
+        - {x: 58, y: -119}
+        - {x: 62, y: -116}
+        - {x: 62, y: 47}
+        - {x: 55, y: 81}
+    - name: Unit Carnivore 3_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 238
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 81}
+        - {x: -75, y: 81}
+        - {x: -83, y: 55}
+        - {x: -83, y: -26}
+        - {x: -30, y: -119}
+        - {x: 67, y: -119}
+        - {x: 67, y: 33}
+        - {x: 18, y: 76}
+    - name: Unit Carnivore 3_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 238
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 81}
+        - {x: -85, y: -43}
+        - {x: -37, y: -119}
+        - {x: 58, y: -119}
+        - {x: 62, y: -116}
+        - {x: 62, y: 47}
+        - {x: 55, y: 81}
+    - name: Unit Carnivore 3_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 238
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 74}
+        - {x: -42, y: 84}
+        - {x: -74, y: 84}
+        - {x: -82, y: 49}
+        - {x: -89, y: 6}
+        - {x: -89, y: -37}
+        - {x: -16, y: -119}
+        - {x: 16, y: -119}
+        - {x: 59, y: -101}
+        - {x: 68, y: -6}
+        - {x: 68, y: 31}
+        - {x: 30, y: 57}
+    - name: Unit Carnivore 3_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 238
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 81}
+        - {x: -85, y: -43}
+        - {x: -37, y: -119}
+        - {x: 58, y: -119}
+        - {x: 62, y: -116}
+        - {x: 62, y: 47}
+        - {x: 55, y: 81}
+    - name: Unit Carnivore 3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 66}
+        - {x: -4, y: 59}
+        - {x: -92, y: -39}
+        - {x: -92, y: -82}
+        - {x: -73, y: -115}
+        - {x: 9, y: -115}
+        - {x: 111, y: -80}
+        - {x: 143, y: -10}
+        - {x: 143, y: 66}
+    - name: Unit Carnivore 3_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: 21}
+        - {x: -97, y: -65}
+        - {x: -97, y: -89}
+        - {x: 88, y: -89}
+        - {x: 113, y: -66}
+        - {x: 113, y: -8}
+        - {x: 21, y: 105}
+        - {x: -36, y: 119}
+        - {x: -97, y: 119}
+        - {x: -97, y: 63}
+    - name: Unit Carnivore 3_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 88}
+        - {x: -68, y: 63}
+        - {x: -45, y: 99}
+        - {x: -46, y: 105}
+        - {x: -119, y: 105}
+        - {x: -143, y: 44}
+        - {x: -143, y: -94}
+        - {x: 79, y: -94}
+        - {x: 79, y: -31}
+        - {x: 22, y: 51}
+        - {x: 24, y: 84}
+        - {x: -24, y: 98}
+    - name: Unit Carnivore 3_8
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 18}
+        - {x: -11, y: 40}
+        - {x: -108, y: 40}
+        - {x: -123, y: -26}
+        - {x: -123, y: -104}
+        - {x: 12, y: -104}
+        - {x: 74, y: -95}
+        - {x: 81, y: -86}
+        - {x: 81, y: -36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
